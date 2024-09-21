@@ -4,11 +4,11 @@ Web Application DEMO  [ Deployed 21/08/2024 ] : https://introductionpy-pc29qzpn7
 
 <p></p>
 ![alt text](https://github.com/Paramee0598/Machine_Learning_Project_2-2023/blob/main/img_web/1-1-full.jpeg?raw=true)
-<p></p>
+
 ![alt text](https://github.com/Paramee0598/Machine_Learning_Project_2-2023/blob/main/img_web/2.jpeg?raw=true)
-<p></p>
+
 ![alt text](https://github.com/Paramee0598/Machine_Learning_Project_2-2023/blob/main/img_web/3-1full.jpeg?raw=true)
-<p></p>
+
 ![alt text](https://github.com/Paramee0598/Machine_Learning_Project_2-2023/blob/main/img_web/4.jpeg?raw=true)
 <p></p>
 
